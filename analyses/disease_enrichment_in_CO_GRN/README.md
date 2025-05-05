@@ -37,4 +37,4 @@ This folder contains analyses to test for the enrichment of disease-associated g
 
 ## Related Figures
 
-*(To be added)*
+*    Supplementary Figure 14

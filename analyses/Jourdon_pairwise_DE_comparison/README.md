@@ -44,4 +44,4 @@ This folder contains analyses comparing gene expression variability within and b
 
 ## Related Figures
 
-*(To be added)*
+*   Supplementary Figure 22

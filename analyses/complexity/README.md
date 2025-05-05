@@ -35,4 +35,4 @@ This folder contains analyses related to transcriptome and Gene Regulatory Netwo
 
 ## Related Figures
 
-*(To be added)*
+*   Supplementary Figure 12

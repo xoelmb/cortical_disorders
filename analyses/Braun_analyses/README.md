@@ -78,4 +78,5 @@ This folder contains analyses performed on the human fetal brain single-cell RNA
 
 ## Related Figures
 
-*(To be added)*
+*   Figure 1
+*   Supplementary Figure 1
